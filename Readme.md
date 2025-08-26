@@ -6,9 +6,9 @@ Currently, I’m working towards becoming a full-stack developer and enjoy build
 - 🌱 Currently learning: TypeScript, React, Node.js,Express.js
 - 🔭 Interested in: Web development, full-stack projects
 - 🚀 Excited about turning ideas into real, scalable applications
-- 📫 [Email me](phyophyomyatthu23@gmail.com)
+
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PHYOPHYO2397&theme=tokyonight)](https://git.io/streak-stats)
 
-### 💻 Tech Stack
+### 💻 Main Tech Stack
 
 ![My Tech Stack](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb)
