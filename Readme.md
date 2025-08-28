@@ -11,4 +11,4 @@ Currently, I’m working towards becoming a full-stack developer and enjoy build
 
 ### 💻 Main Tech Stack
 
-![My Tech Stack](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb)
+![My Tech Stack](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,AWS)
