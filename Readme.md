@@ -3,7 +3,7 @@
 I'm a software developer who’s passionate and enthusiastic about programming, always eager to learn new technologies.  
 Currently, I’m working towards becoming a full-stack developer and enjoy building projects.
 
-- 🌱 Currently learning: TypeScript, React, Node.js,Express.js,AWS,GitLab
+- 🌱 Currently learning: TypeScript, React, Node.js,Express.js,AWS
 - 🔭 Interested in: Web development, full-stack projects
 - 🚀 Excited about turning ideas into real, scalable applications
 
