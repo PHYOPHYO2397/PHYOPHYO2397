@@ -7,7 +7,7 @@ Currently, I’m working towards becoming a full-stack developer and enjoy build
 - 🔭 Interested in: Web development, full-stack projects
 - 🚀 Excited about turning ideas into real, scalable applications
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PHYOPHYO2397&theme=tokyonight)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PHYOPHYO2397&theme=tokyonight&date_format=j%20M%5B%20Y%5D&currStreakLabel=DD2727&fire=DD2727&ring=DD2727&sideLabels=DD2727&sideNums=DD2727&currStreakNum=DD2727&exclude_days=Sun&hide_border=true&v=1)](https://git.io/streak-stats)
 
 ### 💻 Main Tech Stack
 
